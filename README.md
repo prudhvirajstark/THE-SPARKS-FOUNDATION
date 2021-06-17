@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)
 [![](https://img.shields.io/badge/Followme-Github-green.svg)](https://github.com/prudhvirajstark/)
 <br><br><br>
-<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
+
 
 <br><br>
 <p align="center">
