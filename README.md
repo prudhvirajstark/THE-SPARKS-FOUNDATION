@@ -3,7 +3,8 @@
 <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
 [![](https://img.shields.io/badge/Author-Prudhviraj%20-green.svg)](https://github.com/prudhvirajstark/)<br>
-[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/prudhvirajstark/)![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![]
+[![Hello programmer Welcome to this repo](https://img.shields.io/badge/Hello!-Welcometothisrepo-brightgreen.svg?style=flat&logo=github)](https://github.com/prudhvirajstark/)
+![](https://img.shields.io/badge/Programming_Language-Python-orange.svg)
 [![](https://img.shields.io/badge/Followme-Github-green.svg)](https://github.com/prudhvirajstark/)
 <br><br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
